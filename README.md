@@ -1,4 +1,3 @@
-krzip
-=====
+## DAOL KRZIP
 
-Daol krzip module
+Daol Krzip Module
